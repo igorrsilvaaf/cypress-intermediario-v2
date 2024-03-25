@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\e2e\\api",
+    "\\cypress\\e2e\\gui",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\cypress\\support\\api_commands.js",
+  "PreviewInSolutionExplorer": false
+}

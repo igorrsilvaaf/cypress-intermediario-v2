@@ -1,4 +1,4 @@
-describe('Create issue', () => {
+describe('Criando a issue', () => {
     beforeEach(() => cy.api_deleteProjects())
 
     it('Criado com sucesso', () => {
@@ -23,6 +23,5 @@ describe('Create issue', () => {
                 expect(response.body.title).to.equal(issue.title)
                 expect(response.body.description).to.equal(issue.description)
             })
-
     })
 })
